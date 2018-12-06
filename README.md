@@ -1,6 +1,6 @@
 # 提取caffe隐含层特征
 基于python与cpp两个版本。
-详细说明见[我的博客](http://www.luameows.wang/2018/07/04/%E5%88%A9%E7%94%A8cpp%E6%8F%90%E5%8F%96caffe%E7%89%B9%E5%BE%81/)
+详细说明见[我的博客](http://www.luameows.wang/2018/07/04/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-%E5%88%A9%E7%94%A8cpp%E6%8F%90%E5%8F%96caffe%E7%89%B9%E5%BE%81/)
 ## extractfeature.py
 python版本提取特征。
 ## classification.cpp
